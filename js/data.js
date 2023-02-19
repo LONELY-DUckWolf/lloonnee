@@ -2,7 +2,7 @@ const user = {
   name: "Борислав",
   surname: "Шевченко",
   userPhoto: "WIN_20200613_18_53_23_Pro (2).jpg",
-  qrQode: "qr-code.svg",
+  qrQode: "qr-code.png",
   dreams: [
     { src: "carr.jpg", alt: "Хочу Бугатті" },
     { src: "lone.jpg", alt: "1 млн. підписників" },
